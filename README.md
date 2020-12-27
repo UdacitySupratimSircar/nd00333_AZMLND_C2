@@ -79,5 +79,5 @@ In this project, we have used <a href= 'https://automlsamplenotebookdata.blob.co
 
 ## Screen Recording
 
-[![Operationalizing Machine Learning](http://img.youtube.com/vi/6hU1IKibDeQ/0.jpg)](http://www.youtube.com/watch?v=6hU1IKibDeQ "Operationalizing Machine Learning")
+[![Operationalizing Machine Learning](http://img.youtube.com/vi/LKkQHTXrYPU/0.jpg)](https://youtu.be/LKkQHTXrYPU "Operationalizing Machine Learning")
 
